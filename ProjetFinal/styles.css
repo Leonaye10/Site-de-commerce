@@ -1,0 +1,64 @@
+body
+{   
+	background-color:#FFE1FF;
+}
+.menu{
+    height:100%;
+    width:25%;
+    float:left;
+   
+    padding-top:15px;
+}
+.menu:hover{
+    background-color: #FFE1FF ;
+}
+.menu:focus{
+    background-color: #FFE1FF ;
+}
+tr{
+ 
+}
+
+td{
+    
+}
+
+.menuM{
+    height:100%;
+    width:25%;
+    float:left;
+    padding-top:15px;
+}
+.menuM:hover{
+    background-color: #FFE1FF ;
+}
+.menuM:focus{
+    background-color: #FFE1FF ;
+}
+.menuA{
+    height:100%;
+    width:25%;
+    float:left;
+    
+    padding-top:15px;
+}
+.menuA:hover{
+    background-color: #FFE1FF ;
+}
+.menuA:focus{
+    background-color: #FFE1FF ;
+}
+.login{
+    border-radius: 5px;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+    height: 35px;
+}
+.login:focus{
+    border-color:#101010;
+}
+#login{
+    
+}
+.menuUl:hover{
+    display: block;
+}
